@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binary search/Binary search.iml" filepath="$PROJECT_DIR$/Binary search/Binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leet_code/Leet_code.iml" filepath="$PROJECT_DIR$/Leet_code/Leet_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear search/Linear search.iml" filepath="$PROJECT_DIR$/Linear search/Linear search.iml" />
+    </modules>
+  </component>
+</project>
