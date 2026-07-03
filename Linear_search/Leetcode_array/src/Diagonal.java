@@ -1,4 +1,3 @@
-import java.util.Arrays;
 public class Diagonal {
     public static void main(String[] args) {
         int[][] mat = {
