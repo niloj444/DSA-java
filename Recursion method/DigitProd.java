@@ -1,6 +1,6 @@
 public class DigitProd{
     public static void main(String[] args) {
-        int ans = pod(105);
+        int ans = pod(55);
         System.out.println(ans);
     }
     static int pod(int n){

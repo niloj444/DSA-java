@@ -5,5 +5,6 @@ import java.util.Scanner;
         Scanner sc = new Scanner(System.in);
         int roll = sc.nextInt();
         System.out.println("the roll no is " + roll);
+        sc.close();
     }
 }
