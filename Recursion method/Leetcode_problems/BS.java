@@ -4,7 +4,7 @@ class BS{
         return helper(nums, target, 0, nums.length - 1);
     }
 
-    private int helper(int[] nums, int target, int start, int end) {
+    public  int helper(int[] nums, int target, int start, int end) {
 
         if (start > end) {
             return -1;
