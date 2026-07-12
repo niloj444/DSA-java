@@ -1,7 +1,4 @@
 
-import java.util.ArrayList;
-
-
 public class LinearRecursion {
     public static void main(String[] args) {
          int [] arr={12,11,4,46};
